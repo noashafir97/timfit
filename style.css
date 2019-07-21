@@ -1,0 +1,123 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    direction: rtl;
+    background-color:#c1ddeb;
+    
+    
+}
+
+.p1 {
+    font-size: 50px;
+    font-family: \serif;
+  
+
+}
+.imgcont {
+    display: flex ;
+    justify-content: center;
+    flex-direction: column;
+}
+.img1 {
+    width: 50px;
+    height: 50px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+}
+
+.img2 {
+
+    left: 210px;
+    right: 150px;
+    top: -63px;
+    width: 50px;
+    height: 50px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+  
+}
+.img3 {
+
+    left: 100px;
+    right: -150px;
+    top: -127px;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+}
+ 
+.img5 {
+    border-style: solid;
+    border-color: black;
+    justify-content: center;
+    width: 350px;
+    padding: 20px;
+   
+
+}
+.line {
+    display: flex;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color: black;
+    padding-block-end: 35px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #55abe4;
+    
+  }
+  .topnav a {
+    float: left;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+   
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: rgba(255, 255, 255, 0.897) ;
+    color:black;
+     top: -127px;
+  }
+  
+
+.pc1 {
+    display: flex;
+    color: black;
+    float: right;
+
+}
+.fb-share-button {
+    float: right;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;  
+ 
+}
+
+.w3-content {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
